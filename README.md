@@ -1,15 +1,19 @@
 # Hey there! 👋 I'm Abdirahman Mohamed
 
-Welcome to my GitHub! I'm a Computer Science student and Full-Stack Software Engineer who loves building meaningful applications and solving real-world problems with code.
+Welcome to my GitHub! I'm a Full-Stack Software Engineer who loves building meaningful applications and solving real-world problems.
 
 ## 🚀 About Me
 
 - 🎓 **Computer Science Graduate** from University of Southern Maine
 - 💻 **Full-Stack Software Engineer** at Resilient Coders, working with the MERN stack
 - 🏫 **Founder & Lead Instructor** at Al Bayaan Institute, serving 60+ students weekly
-- 🌱 Currently diving deeper into **AI**, **Systems Programming**, and **Computer Architecture**
+- 🌱 Currently diving deeper into frontend frameworks, backend APIs, and database optimization
 - 🎯 Passionate about creating technology that makes education and daily life more accessible
-- ⚡ Fun fact: I founded an educational institute while studying full-time - I love challenges!
+- ⚡ Fun facts:
+     - I founded an educational institute while studying full-time - I love challenges!
+     - I'm convinced that rubber duck debugging works because ducks are secretly genius
+     - Pineapple absolutely belongs on pizza (I will die on this hill)
+     - The best way to eat cereal is with ice-cold milk - room temperature milk people are questionable!
 
 ## 🛠️ Tech Stack & Tools
 
@@ -73,22 +77,13 @@ I'm always excited to:
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/abdirxhmxn) 
 [![Phone](https://img.shields.io/badge/-207--800--7829-25D366?style=flat&logo=whatsapp&logoColor=white)](tel:207-800-7829)
 
+## 🎯 Current Goals
+Becoming a better developer and programmer through continuous learning
+Growing Al Bayaan Institute to serve more students in our community
 
-### 🎯 Current Goals
 
-> "Technology is best when it brings people together and makes education accessible to all."
+"Technology is best when it brings people together and makes education accessible to all."
 
 I believe in using code to create positive impact - whether it's building educational platforms, developing user-friendly applications, or mentoring the next generation of developers.
-
 Thanks for visiting! ✨ Feel free to explore my work and don't hesitate to reach out if you'd like to collaborate!
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
