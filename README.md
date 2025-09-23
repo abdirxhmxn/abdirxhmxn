@@ -73,11 +73,6 @@ I'm always excited to:
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/abdirxhmxn) 
 [![Phone](https://img.shields.io/badge/-207--800--7829-25D366?style=flat&logo=whatsapp&logoColor=white)](tel:207-800-7829)
 
-## 📊 GitHub Stats
-
-![Abdirahman's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdirxhmxn&show_icons=true&theme=default)
-
----
 
 ### 🎯 Current Goals
 
