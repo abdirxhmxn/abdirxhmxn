@@ -38,10 +38,10 @@ Welcome to my GitHub! I'm a Full-Stack Software Engineer who loves building mean
 
 ## 🌟 Featured Projects
 
-### 🗂️ [Full-Stack To-Do List App](https://github.com/abdirxhmxn)
-A responsive CRUD application with live DOM updates and persistent storage
-- **Built with:** HTML, CSS, JavaScript
-- **Features:** localStorage integration, modular CSS, clean Git workflow
+### 🗂️ [Match Em N Bag Em]((https://github.com/abdirxhmxn/matching-card))
+An interactive Arabic alphabet matching game that blends learning with fun.
+- Built with: HTML, CSS, JavaScript
+- Features: Dynamic DOM updates, localStorage score tracking, responsive design, and multi-player logic
 
 ### 🎰 [Slot Machine Game](https://github.com/abdirxhmxn)
 Interactive gaming experience with animations and real-time updates
