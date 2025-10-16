@@ -38,7 +38,7 @@ Welcome to my GitHub! I'm a Full-Stack Software Engineer who loves building mean
 
 ## 🌟 Featured Projects
 
-### 🗂️ [Match Em N Bag Em]((https://github.com/abdirxhmxn/matching-card))
+### 🧠 [Match Em N Bag Em](https://github.com/abdirxhmxn/matching-card)
 An interactive Arabic alphabet matching game that blends learning with fun.
 - Built with: HTML, CSS, JavaScript
 - Features: Dynamic DOM updates, localStorage score tracking, responsive design, and multi-player logic
