@@ -43,11 +43,10 @@ An interactive Arabic alphabet matching game that blends learning with fun.
 - Built with: HTML, CSS, JavaScript
 - Features: Dynamic DOM updates, localStorage score tracking, responsive design, and multi-player logic
 
-### 🎰 [Slot Machine Game](https://github.com/abdirxhmxn)
-Interactive gaming experience with animations and real-time updates
-- **Built with:** HTML, CSS, JavaScript
-- **Features:** Randomized logic, CSS animations, event-driven architecture
-
+### 🎰 [Flip Em](https://github.com/abdirxhmxn/node-coin-flip)
+- A fast-paced coin-flip game that tests your luck with real-time updates and sleek animations.
+- Built with: HTML, CSS, JavaScript (Node.js)
+- Features: Randomized outcomes, event-driven logic, smooth UI animations, and dynamic game state rendering
 ### 🧮 [Simple Calculator](https://github.com/abdirxhmxn)
 Clean, user-friendly calculator for basic arithmetic operations
 - **Built with:** Vanilla JavaScript, responsive design
