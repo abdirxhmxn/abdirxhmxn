@@ -47,7 +47,7 @@ An interactive Arabic alphabet matching game that blends learning with fun.
 - A fast-paced coin-flip game that tests your luck with real-time updates and sleek animations.
 - Built with: HTML, CSS, JavaScript (Node.js)
 - Features: Randomized outcomes, event-driven logic, smooth UI animations, and dynamic game state rendering
-### 🧮 [Quranify](https://github.com/abdirxhmxn/Quranify)
+### 🕌 [Quranify](https://github.com/abdirxhmxn/Quranify)
 Clean, user-friendly calculator for basic arithmetic operations
 - **Built with:** Vanilla JavaScript, responsive design
 
