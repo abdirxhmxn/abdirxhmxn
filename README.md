@@ -74,7 +74,6 @@ I'm always excited to:
 [![Email](https://img.shields.io/badge/-work.amohamed@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:work.amohamed@gmail.com) 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/abdirahmanamohamed) 
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/abdirxhmxn) 
-[![Phone](https://img.shields.io/badge/-207--800--7829-25D366?style=flat&logo=whatsapp&logoColor=white)](tel:207-800-7829)
 
 ## 🎯 Current Goals
 Becoming a better developer and programmer through continuous learning
