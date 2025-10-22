@@ -51,9 +51,9 @@ An interactive Arabic alphabet matching game that blends learning with fun.
 Clean, user-friendly calculator for basic arithmetic operations
 - **Built with:** Vanilla JavaScript, responsive design
 
-### ⭐ [Horoscope Calculator](https://github.com/abdirxhmxn)
-Zodiac sign finder based on birth date with intuitive UI
-- **Built with:** HTML, CSS, JavaScript
+### 🌌 [NASA Picture of The Day API](https://github.com/abdirxhmxn/complex-nasa-api/tree/answer)
+A web application that fetches NASA's Astronomy Picture of the Day (APOD) based on a user-selected date. View stunning space images and videos with detailed descriptions!
+- **Built with:** HTML, CSS, JavaScript, NASA APOD API
 
 ## 💼 What I'm Up To
 
