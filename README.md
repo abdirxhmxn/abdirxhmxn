@@ -48,8 +48,8 @@ An interactive Arabic alphabet matching game that blends learning with fun.
 - Built with: HTML, CSS, JavaScript (Node.js)
 - Features: Randomized outcomes, event-driven logic, smooth UI animations, and dynamic game state rendering
 ### 🕌 [Quranify](https://github.com/abdirxhmxn/Quranify)
-Clean, user-friendly calculator for basic arithmetic operations
-- **Built with:** Vanilla JavaScript, responsive design
+Quranify is a minimalist web app that lets users search, listen, and read verses from the Qur’an
+- **Built with:** HTML, CSS, JavaScript, Al-Qur’an Cloud API, Fawaz Ahmed’s Quran API
 
 ### 🌌 [NASA Picture of The Day API](https://github.com/abdirxhmxn/complex-nasa-api/tree/answer)
 A web application that fetches NASA's Astronomy Picture of the Day (APOD) based on a user-selected date. View stunning space images and videos with detailed descriptions!
