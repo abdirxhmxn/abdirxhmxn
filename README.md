@@ -2,13 +2,13 @@
 
 Welcome to my GitHub! I'm a Full-Stack Software Engineer who loves building meaningful applications and solving real-world problems.
 
-## 🚀 About Me
+##  About Me
 
-- 🎓 **Computer Science Graduate** from University of Southern Maine
-- 💻 **Full-Stack Software Engineer** at Resilient Coders, working with the MERN stack
-- 🏫 **Founder & Lead Instructor** at Al Bayaan Institute, serving 60+ students weekly
-- 🌱 Currently diving deeper into frontend frameworks, backend APIs, and database optimization
-- 🎯 Passionate about creating technology that makes education and daily life more accessible
+-  **Computer Science Graduate** from University of Southern Maine
+-  **Full-Stack Software Engineer** at Resilient Coders, working with the MERN stack
+-  **Founder & Lead Instructor** at Al Bayaan Institute, serving 60+ students weekly
+- Currently diving deeper into frontend frameworks, backend APIs, and database optimization
+- Passionate about creating technology that makes education and daily life more accessible
 - ⚡ Fun facts:
      - I founded an educational institute while studying full-time - I love challenges!
      - I'm convinced that rubber duck debugging works because ducks are secretly genius
