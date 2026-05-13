@@ -9,10 +9,10 @@ Welcome to my GitHub! I'm a Full-Stack Software Engineer who loves building mean
 -  **Founder & Lead Instructor** at Al Bayaan Institute, serving 60+ students weekly
 - Currently diving deeper into frontend frameworks, backend APIs, and database optimization
 - Passionate about creating technology that makes education and daily life more accessible
-- ⚡ Fun facts:
+  - Fun facts:
      - I founded an educational institute while studying full-time - I love challenges!
      - I'm convinced that rubber duck debugging works because ducks are secretly genius
-     - Pineapple absolutely belongs on pizza (I will die on this hill)
+     - Pineapples absolutely belongs on pizza (I will die on this hill)
      - The best way to eat cereal is with ice-cold milk - room temperature milk people are questionable!
 
 ## 🛠️ Tech Stack & Tools
