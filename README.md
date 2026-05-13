@@ -21,21 +21,27 @@ Every product decision, every line of code, every feature shipped based on direc
 
 ## 🎯 Bet on Me
 
-[One-line description goes here — what it does and the problem it solves]
+Full-stack web app built with a team — I owned DevOps and project management, shipping it from zero to production.
 
-- **Stack:** [primary technologies]
-- **Highlights:** [2-3 things that made it interesting to build]
-- **[Repo →](https://github.com/abdirxhmxn/bet-on-me)**
+- **Stack:** EJS, Node.js, Express, MongoDB, Passport.js
+- **Highlights:**
+  - Set up the CI/CD pipeline and owned reliable deploys across all environments
+  - Managed the team's Git workflow — branching conventions, PR reviews, conflict resolution
+  - Coordinated sprint planning and feature delivery to keep the team unblocked
+- **[Repo →](https://github.com/Resilient-Labs/bet-on-me)**
 
 ---
 
 ## 🚗 MotionDriversEd
 
-[One-line description goes here — what it does and the problem it solves]
+Conversion-focused landing page for a local driving school — built to rank in search and convert visitors into enrolled students.
 
-- **Stack:** [primary technologies]
-- **Highlights:** [2-3 things that made it interesting to build]
-- **[Repo →](https://github.com/abdirxhmxn/MotionDriversEd)**
+- **Stack:** HTML5, CSS3, JavaScript
+- **Highlights:**
+  - SEO-optimized with structured metadata and sitemaps, ranking top for local driving programs
+  - Modular components and CSS animations for smooth mobile-first performance
+  - Refined content hierarchy lifted conversion potential by ~35%
+- **[Repo →](https://github.com/abdirxhmxn/motionDriversEd)** · **[Live →](https://motiondriversed.com)**
 
 ---
 
