@@ -1,87 +1,74 @@
-# Hey there! 👋 I'm Abdirahman Mohamed
+# Abdirahman Mohamed
 
-Welcome to my GitHub! I'm a Full-Stack Software Engineer who loves building meaningful applications and solving real-world problems.
+Full-stack engineer and founder. I built and run Al Bayaan Institute, a youth education program I scaled from 3 to 110+ students, and I'm the engineer behind IlmQuest, the multi-tenant SaaS that operates it.
 
-##  About Me
+---
 
--  **Computer Science Graduate** from University of Southern Maine
--  **Full-Stack Software Engineer** at Resilient Coders, working with the MERN stack
--  **Founder & Lead Instructor** at Al Bayaan Institute, serving 60+ students weekly
-- Currently diving deeper into frontend frameworks, backend APIs, and database optimization
-- Passionate about creating technology that makes education and daily life more accessible
-  - Fun facts:
-     - I founded an educational institute while studying full-time - I love challenges!
-     - I'm convinced that rubber duck debugging works because ducks are secretly genius
-     - Pineapples absolutely belongs on pizza (I will die on this hill)
-     - The best way to eat cereal is with ice-cold milk - room temperature milk people are questionable!
+## 🏫 IlmQuest — Multi-tenant Education SaaS
 
-## 🛠️ Tech Stack & Tools
+The platform I built end-to-end to run my own academy. Live in production with 110+ daily users.
 
-**Languages:**  
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) 
-![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white) 
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+**[Live Demo →](https://iq-demo.onrender.com/)** _Demo credentials on the landing page_
 
-**Frameworks & Libraries:**  
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black) 
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white) 
-![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white) 
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+- **Stack:** Node.js, Express, MongoDB, EJS, plain CSS
+- **Architecture:** Multi-tenant, role-based auth (admin / teacher / parent / student)
+- **Features:** Grading automation, attendance tracking, gamification, parent dashboards, classroom analytics
+- **Scope:** Schema design, backend, frontend, deploy pipeline, support — every layer
 
-**Tools & Technologies:**  
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) 
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white) 
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white) 
-![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat&logo=jira&logoColor=white)
+Every product decision, every line of code, every feature shipped based on direct user feedback from the academy I run.
 
-## 🌟 Featured Projects
+---
 
-### 🧠 [Match Em N Bag Em](https://github.com/abdirxhmxn/matching-card)
-An interactive Arabic alphabet matching game that blends learning with fun.
-- Built with: HTML, CSS, JavaScript
-- Features: Dynamic DOM updates, localStorage score tracking, responsive design, and multi-player logic
+## 🎯 Bet on Me
 
-### 🎰 [Flip Em](https://github.com/abdirxhmxn/node-coin-flip)
-- A fast-paced coin-flip game that tests your luck with real-time updates and sleek animations.
-- Built with: HTML, CSS, JavaScript (Node.js)
-- Features: Randomized outcomes, event-driven logic, smooth UI animations, and dynamic game state rendering
-### 🕌 [Quranify](https://github.com/abdirxhmxn/Quranify)
-Quranify is a minimalist web app that lets users search, listen, and read verses from the Qur’an
-- **Built with:** HTML, CSS, JavaScript, Al-Qur’an Cloud API, Fawaz Ahmed’s Quran API
+[One-line description goes here — what it does and the problem it solves]
 
-### 🌌 [NASA Picture of The Day API](https://github.com/abdirxhmxn/complex-nasa-api/tree/answer)
-A web application that fetches NASA's Astronomy Picture of the Day (APOD) based on a user-selected date. View stunning space images and videos with detailed descriptions!
-- **Built with:** HTML, CSS, JavaScript, NASA APOD API
+- **Stack:** [primary technologies]
+- **Highlights:** [2-3 things that made it interesting to build]
+- **[Repo →](https://github.com/abdirxhmxn/bet-on-me)**
 
-## 💼 What I'm Up To
+---
 
-- 🔨 **Building full-stack applications** with the MERN stack at Resilient Coders
-- 🏫 **Running Al Bayaan Institute** - managing web systems, enrollment, and education programs
-- 📚 **Studying advanced CS topics** - AI, Operating Systems, and Computer Architecture
-- 🌐 **Contributing to open source** and expanding my development skills
+## 🚗 MotionDriversEd
 
-## 🌟 Let's Connect!
+[One-line description goes here — what it does and the problem it solves]
 
-I'm always excited to:
-- 💬 Discuss new technologies and development approaches
-- 🤝 Collaborate on meaningful projects
-- 🎓 Share knowledge about education technology
-- ☕ Chat about balancing entrepreneurship with software development
+- **Stack:** [primary technologies]
+- **Highlights:** [2-3 things that made it interesting to build]
+- **[Repo →](https://github.com/abdirxhmxn/MotionDriversEd)**
 
-**Reach out:**  
-[![Email](https://img.shields.io/badge/-work.amohamed@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:work.amohamed@gmail.com) 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/abdirahmanamohamed) 
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/abdirxhmxn) 
+---
 
-## 🎯 Current Goals
-Becoming a better developer and programmer through continuous learning
-Growing Al Bayaan Institute to serve more students in our community
+## 💼 Currently
 
+- **Founder & Lead Instructor** — Al Bayaan Institute (Sep 2024 — Present)
+  Education program serving 110+ students. Built operations, curriculum, hiring, and the software stack.
 
-"Technology is best when it brings people together and makes education accessible to all."
+- **Freelance Full-Stack Developer** (Sep 2025 — Present)
+  Responsive web apps and payment integrations for clients.
 
-I believe in using code to create positive impact - whether it's building educational platforms, developing user-friendly applications, or mentoring the next generation of developers.
-Thanks for visiting! ✨ Feel free to explore my work and don't hesitate to reach out if you'd like to collaborate!
+- **Previously:** Full-Stack Engineer at Resilient Coders (Aug — Dec 2025) — MERN stack, REST APIs, code reviews.
 
+---
+
+## 🛠️ Stack
+
+**Primary:** JavaScript, Node.js, Express, React, MongoDB, EJS, REST APIs, JWT
+**Also:** Python, Java, HTML/CSS, Git, GitHub Actions
+**Currently picking up:** PostgreSQL, AWS
+
+---
+
+## 🎓 Background
+
+BS Computer Science, University of Southern Maine (May 2025)
+
+---
+
+## 📬 Contact
+
+- **Email:** work.amohamed@gmail.com
+- **LinkedIn:** [linkedin.com/in/abdirahmanamohamed](https://linkedin.com/in/abdirahmanamohamed)
+- **Portfolio:** [mcdigitalservices.pro](https://mcdigitalservices.pro)
+
+Open to founding engineer and early-stage product roles. Reach out.
